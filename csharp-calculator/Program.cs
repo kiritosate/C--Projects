@@ -10,16 +10,16 @@ namespace kiritosate
             while(true)
             {
                 int number1, number2, result;
-            string operand;
+                string operand;
 
-            Console.Write("enter first number: ");
-            number1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("enter first number: ");
+                number1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("enter second number: ");
-            number2 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("enter second number: ");
+                number2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("use ( + , - , * , /)\nenter the operand to use: ");
-            operand = Console.ReadLine();
+                Console.Write("use ( + , - , * , /)\nenter the operand to use: ");
+                operand = Console.ReadLine();
             
             switch(operand)
             {
