@@ -15,7 +15,7 @@ namespace kiritosate
             password = Console.ReadLine();
 
             if(username == "admin" && password == "adminpassword"){
-                Console.WriteLine("Welcome Back {0}", admin);
+                Console.WriteLine("Welcome Back {0}", username);
             }else{
                 Console.WriteLine("Wrong username or password provided...");
             }
