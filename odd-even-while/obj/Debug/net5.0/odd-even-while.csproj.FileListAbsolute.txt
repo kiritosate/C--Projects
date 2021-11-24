@@ -1,0 +1,16 @@
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.csproj.AssemblyReference.cache
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.AssemblyInfoInputs.cache
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.AssemblyInfo.cs
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\odd-even-while.exe
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\odd-even-while.deps.json
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\odd-even-while.runtimeconfig.json
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\odd-even-while.runtimeconfig.dev.json
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\odd-even-while.dll
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\ref\odd-even-while.dll
+C:\bin\C--Projects\odd-even-while\bin\Debug\net5.0\odd-even-while.pdb
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.dll
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\ref\odd-even-while.dll
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.pdb
+C:\bin\C--Projects\odd-even-while\obj\Debug\net5.0\odd-even-while.genruntimeconfig.cache

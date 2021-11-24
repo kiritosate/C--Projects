@@ -1,0 +1,5 @@
+C:\bin\C--Projects\loginaccess\obj\Debug\net5.0\loginaccess.csproj.AssemblyReference.cache
+C:\bin\C--Projects\loginaccess\obj\Debug\net5.0\loginaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\loginaccess\obj\Debug\net5.0\loginaccess.AssemblyInfoInputs.cache
+C:\bin\C--Projects\loginaccess\obj\Debug\net5.0\loginaccess.AssemblyInfo.cs
+C:\bin\C--Projects\loginaccess\obj\Debug\net5.0\loginaccess.csproj.CoreCompileInputs.cache

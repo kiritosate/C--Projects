@@ -1,0 +1,16 @@
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\shapes-console.exe
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\shapes-console.deps.json
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\shapes-console.runtimeconfig.json
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\shapes-console.runtimeconfig.dev.json
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\shapes-console.dll
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\ref\shapes-console.dll
+C:\bin\C--Projects\shapes-console\bin\Debug\net5.0\shapes-console.pdb
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.csproj.AssemblyReference.cache
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.AssemblyInfoInputs.cache
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.AssemblyInfo.cs
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.dll
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\ref\shapes-console.dll
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.pdb
+C:\bin\C--Projects\shapes-console\obj\Debug\net5.0\shapes-console.genruntimeconfig.cache
