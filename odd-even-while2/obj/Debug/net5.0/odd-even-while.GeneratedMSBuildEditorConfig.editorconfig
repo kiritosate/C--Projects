@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = odd_even_while
-build_property.ProjectDir = c:\bin\C--Projects\odd-even-while\
+build_property.ProjectDir = c:\bin\C--Projects\odd-even-while2\

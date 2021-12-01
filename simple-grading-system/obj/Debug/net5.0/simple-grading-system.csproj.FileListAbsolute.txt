@@ -1,0 +1,16 @@
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.csproj.AssemblyReference.cache
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.AssemblyInfoInputs.cache
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.AssemblyInfo.cs
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\simple-grading-system.exe
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\simple-grading-system.deps.json
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\simple-grading-system.runtimeconfig.json
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\simple-grading-system.runtimeconfig.dev.json
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\simple-grading-system.dll
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\ref\simple-grading-system.dll
+C:\bin\C--Projects\simple-grading-system\bin\Debug\net5.0\simple-grading-system.pdb
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.dll
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\ref\simple-grading-system.dll
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.pdb
+C:\bin\C--Projects\simple-grading-system\obj\Debug\net5.0\simple-grading-system.genruntimeconfig.cache

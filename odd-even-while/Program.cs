@@ -21,7 +21,7 @@ namespace odd_even_while
             char again; //char variable to ask for yes/y or no/n to try again.
 
             /*ask the user to enter number of entries, for example 3 entries will result to
-                Number1: 
+                Number1:       
                 Number2:
                 Number3:
             */
