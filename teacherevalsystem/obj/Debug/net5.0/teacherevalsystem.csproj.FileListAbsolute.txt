@@ -1,0 +1,16 @@
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.csproj.AssemblyReference.cache
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.AssemblyInfoInputs.cache
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.AssemblyInfo.cs
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\teacherevalsystem.exe
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\teacherevalsystem.deps.json
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\teacherevalsystem.runtimeconfig.json
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\teacherevalsystem.runtimeconfig.dev.json
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\teacherevalsystem.dll
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\ref\teacherevalsystem.dll
+C:\bin\C--Projects\teacherevalsystem\bin\Debug\net5.0\teacherevalsystem.pdb
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.dll
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\ref\teacherevalsystem.dll
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.pdb
+C:\bin\C--Projects\teacherevalsystem\obj\Debug\net5.0\teacherevalsystem.genruntimeconfig.cache
