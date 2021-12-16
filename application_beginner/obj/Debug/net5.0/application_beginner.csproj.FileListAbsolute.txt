@@ -1,0 +1,16 @@
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.csproj.AssemblyReference.cache
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.AssemblyInfoInputs.cache
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.AssemblyInfo.cs
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\application_beginner.exe
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\application_beginner.deps.json
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\application_beginner.runtimeconfig.json
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\application_beginner.runtimeconfig.dev.json
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\application_beginner.dll
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\ref\application_beginner.dll
+C:\bin\C--Projects\application_beginner\bin\Debug\net5.0\application_beginner.pdb
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.dll
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\ref\application_beginner.dll
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.pdb
+C:\bin\C--Projects\application_beginner\obj\Debug\net5.0\application_beginner.genruntimeconfig.cache

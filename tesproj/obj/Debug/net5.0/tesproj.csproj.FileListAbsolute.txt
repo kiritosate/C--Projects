@@ -1,0 +1,16 @@
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\tesproj.exe
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\tesproj.deps.json
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\tesproj.runtimeconfig.json
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\tesproj.runtimeconfig.dev.json
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\tesproj.dll
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\ref\tesproj.dll
+C:\bin\C--Projects\tesproj\bin\Debug\net5.0\tesproj.pdb
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.csproj.AssemblyReference.cache
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.AssemblyInfoInputs.cache
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.AssemblyInfo.cs
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.dll
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\ref\tesproj.dll
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.pdb
+C:\bin\C--Projects\tesproj\obj\Debug\net5.0\tesproj.genruntimeconfig.cache

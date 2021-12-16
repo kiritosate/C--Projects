@@ -1,0 +1,16 @@
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.csproj.AssemblyReference.cache
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.AssemblyInfoInputs.cache
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.AssemblyInfo.cs
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\my-package-simple.exe
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\my-package-simple.deps.json
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\my-package-simple.runtimeconfig.json
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\my-package-simple.runtimeconfig.dev.json
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\my-package-simple.dll
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\ref\my-package-simple.dll
+C:\bin\C--Projects\my-package-simple\bin\Debug\net5.0\my-package-simple.pdb
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.dll
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\ref\my-package-simple.dll
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.pdb
+C:\bin\C--Projects\my-package-simple\obj\Debug\net5.0\my-package-simple.genruntimeconfig.cache

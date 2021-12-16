@@ -1,0 +1,16 @@
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\daysconversion.exe
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\daysconversion.deps.json
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\daysconversion.runtimeconfig.json
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\daysconversion.runtimeconfig.dev.json
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\daysconversion.dll
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\ref\daysconversion.dll
+C:\bin\C--Projects\daysconversion\bin\Debug\net5.0\daysconversion.pdb
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.csproj.AssemblyReference.cache
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.AssemblyInfoInputs.cache
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.AssemblyInfo.cs
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.dll
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\ref\daysconversion.dll
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.pdb
+C:\bin\C--Projects\daysconversion\obj\Debug\net5.0\daysconversion.genruntimeconfig.cache

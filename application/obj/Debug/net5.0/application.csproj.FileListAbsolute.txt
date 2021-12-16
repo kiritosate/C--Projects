@@ -1,0 +1,16 @@
+C:\bin\C--Projects\application\bin\Debug\net5.0\application.exe
+C:\bin\C--Projects\application\bin\Debug\net5.0\application.deps.json
+C:\bin\C--Projects\application\bin\Debug\net5.0\application.runtimeconfig.json
+C:\bin\C--Projects\application\bin\Debug\net5.0\application.runtimeconfig.dev.json
+C:\bin\C--Projects\application\bin\Debug\net5.0\application.dll
+C:\bin\C--Projects\application\bin\Debug\net5.0\ref\application.dll
+C:\bin\C--Projects\application\bin\Debug\net5.0\application.pdb
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.csproj.AssemblyReference.cache
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.AssemblyInfoInputs.cache
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.AssemblyInfo.cs
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.dll
+C:\bin\C--Projects\application\obj\Debug\net5.0\ref\application.dll
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.pdb
+C:\bin\C--Projects\application\obj\Debug\net5.0\application.genruntimeconfig.cache

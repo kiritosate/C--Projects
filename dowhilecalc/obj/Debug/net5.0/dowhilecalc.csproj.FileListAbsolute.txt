@@ -1,0 +1,5 @@
+C:\bin\C--Projects\dowhilecalc\obj\Debug\net5.0\dowhilecalc.csproj.AssemblyReference.cache
+C:\bin\C--Projects\dowhilecalc\obj\Debug\net5.0\dowhilecalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\dowhilecalc\obj\Debug\net5.0\dowhilecalc.AssemblyInfoInputs.cache
+C:\bin\C--Projects\dowhilecalc\obj\Debug\net5.0\dowhilecalc.AssemblyInfo.cs
+C:\bin\C--Projects\dowhilecalc\obj\Debug\net5.0\dowhilecalc.csproj.CoreCompileInputs.cache
