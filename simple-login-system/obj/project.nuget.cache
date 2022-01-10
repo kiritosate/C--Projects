@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0hfoQbfvVjmCjQPuut8LABG1AdIO1mq/VsjaAhq6e5+2ZIVsKVr1R5mAORFk7oipOeykccXc8q6HvYnjyzVtA==",
+  "dgSpecHash": "8WwVb8QcAcY1tty4SPxoF17PYtpUoLs+0MZ+abT+RlGkLPL17zYLF5aWzuOKnhkE3nJN0I+mH/WFqGJzPFNcqA==",
   "success": true,
-  "projectFilePath": "C:\\bin\\C--Projects\\simple-login-system\\simple-login-system.csproj",
+  "projectFilePath": "c:\\bin\\C--Projects\\simple-login-system\\simple-login-system.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

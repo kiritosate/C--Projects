@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DXUhmLEkWo/AxJyBVAx85JeYYbDYjf+Dpa2aXHMiEPAQxH/E79XfGQiaK5EX40CRBfRhFDtIgIWGOBgZBJhAg==",
+  "dgSpecHash": "pKTxuYJ3UGFXjGBqQWIXDn89WYk+c8/kWYgLjxr1D5HX2aOAb16TBjxTXy1hGWvsnDS8wgufsQmNkDJ+Q7Jx4g==",
   "success": true,
-  "projectFilePath": "C:\\bin\\C--Projects\\simple-grading-system\\simple-grading-system.csproj",
+  "projectFilePath": "c:\\bin\\C--Projects\\simple-grading-system\\simple-grading-system.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

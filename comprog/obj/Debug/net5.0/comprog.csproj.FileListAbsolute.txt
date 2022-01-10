@@ -1,0 +1,16 @@
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.csproj.AssemblyReference.cache
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.AssemblyInfoInputs.cache
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.AssemblyInfo.cs
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.csproj.CoreCompileInputs.cache
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\comprog.exe
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\comprog.deps.json
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\comprog.runtimeconfig.json
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\comprog.runtimeconfig.dev.json
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\comprog.dll
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\ref\comprog.dll
+C:\bin\C--Projects\comprog\bin\Debug\net5.0\comprog.pdb
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.dll
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\ref\comprog.dll
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.pdb
+C:\bin\C--Projects\comprog\obj\Debug\net5.0\comprog.genruntimeconfig.cache

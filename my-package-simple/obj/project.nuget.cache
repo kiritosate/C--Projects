@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTmnfOgyTNreVWCRtNJp7I8AwzUVf6EIgdL6cBDZhmwI9uqyHGnFfivVgzgxURKcBGPzIgOkmFw3b3SagEX7Cg==",
+  "dgSpecHash": "F+d6rDt24u44fp/AWePdaMXQo60UH/cGswk+7SoFpn44EgA2B8EXmxhrSFUFM1M3Qu2zDOzh7/eihlrjZ0iTjA==",
   "success": true,
-  "projectFilePath": "C:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj",
+  "projectFilePath": "c:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

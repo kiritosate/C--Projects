@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj": {}
+    "c:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj": {}
   },
   "projects": {
-    "C:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj": {
+    "c:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj",
+        "projectUniqueName": "c:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj",
         "projectName": "my-package-simple",
-        "projectPath": "C:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj",
+        "projectPath": "c:\\bin\\C--Projects\\my-package-simple\\my-package-simple.csproj",
         "packagesPath": "C:\\Users\\perve\\.nuget\\packages\\",
-        "outputPath": "C:\\bin\\C--Projects\\my-package-simple\\obj\\",
+        "outputPath": "c:\\bin\\C--Projects\\my-package-simple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\perve\\AppData\\Roaming\\NuGet\\NuGet.Config",
